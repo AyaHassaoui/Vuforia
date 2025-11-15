@@ -1,6 +1,4 @@
-"# Vuforia" 
-Voici un **README complet et professionnel** pour ton projet Vuforia, avec **des espaces réservés pour les captures d’écran** 📸
-Tu pourras le copier directement dans GitHub.
+"# Vuforia"
 
 ---
 

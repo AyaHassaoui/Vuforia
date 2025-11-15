@@ -1,43 +1,37 @@
 
-
 ---
 
-````
-# 🚗 Projet AR – Détection de voiture en Réalité Augmentée avec Unity & Vuforia
+# 📌 **Projet AR – Détection de voiture en Réalité Augmentée avec Unity & Vuforia**
 
----
+## 🚗 Présentation du projet
 
-## 📌 Présentation du projet
+Ce projet consiste à développer une application en **Réalité Augmentée (AR)** utilisant **Unity** et **Vuforia**.
+Lorsqu’une image cible est détectée par la caméra, un **modèle 3D de voiture (Porsche 911 GT3 RS)** apparaît en AR, accompagné d’un **son de moteur** et d’une **voix descriptive**.
 
-Ce projet consiste à développer une application en **Réalité Augmentée (AR)** avec **Unity** et **Vuforia**.  
-Lorsqu’une image cible est détectée par la caméra, un **modèle 3D de voiture (Porsche 911 GT3 RS)** apparaît, accompagné de **sons (voix descriptive + son du moteur)**.
-
-Ce travail a été réalisé dans le cadre d’un mini-projet éducatif visant à explorer les technologies de réalité augmentée.
+Ce projet a été réalisé dans le cadre d’un mini-projet éducatif dédié à l’exploration de l’AR.
 
 ---
 
 ## 🛠️ Technologies & outils
 
-| Technologie      | Version / Utilisation |
-|----------------- | ----------------------|
-| Unity            | 2021 / 2022+          |
-| Vuforia Engine   | 11.x                  |
-| C#               | Scripts Unity         |
-| Plateforme cible | Android / Webcam PC   |
+| Technologie      | Version             |
+| ---------------- | ------------------- |
+| Unity            | 2021 / 2022+        |
+| Vuforia Engine   | 11.x                |
+| C#               | Scripts Unity       |
+| Plateforme cible | Android / Webcam PC |
 
 ---
 
-## 🎯 Objectifs pédagogiques
+## 📌 Objectifs pédagogiques
 
-✔ Découvrir les principes de la Réalité Augmentée  
-✔ Manipuler la librairie Vuforia dans Unity  
-✔ Créer et intégrer une base d'Image Targets  
-✔ Importer et utiliser un modèle 3D interactif  
-✔ Ajouter des éléments multimédia (audio)  
-✔ Tester l’application sur PC et smartphone
+✔ Comprendre les principes de la Réalité Augmentée
+✔ Manipuler Vuforia et configurer une ARCamera
+✔ Créer et importer une base d’Image Targets
+✔ Intégrer un modèle 3D et des éléments multimédia (audio)
+✔ Tester l’application sur PC ou smartphone
 
 ---
-
 ## 📂 Structure du projet
 
 ```bash

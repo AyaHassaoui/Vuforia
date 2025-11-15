@@ -84,7 +84,8 @@ Scripts/
 
 ### 🔹 Interface Unity – Hiérarchie et scène
 
-<img width="1919" alt="UnityScene" src="https://github.com/user-attachments/assets/4a0be1c7-a2d9-443e-b48d-5e00e2e287ff" />
+<img width="235" height="490" alt="image" src="https://github.com/user-attachments/assets/4b543000-ddfb-406b-a3da-6d004643a7ba" />
+
 
 ### 🔹 Script C# dans l’Inspector (TargetAudioController)
 

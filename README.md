@@ -36,16 +36,48 @@ Ce projet a été réalisé dans le cadre d’un mini-projet éducatif dédié �
 
 ## 📂 Structure du projet
 
-```
 Assets/
- ├── Models/ (voiture 3D)
- ├── Audio/
- ├── Scripts/
- │    └── TargetAudioController.cs
- ├── Vuforia/
- ├── Scenes/
-      └── ARScene.unity
-```
+ ├─ Editor/
+ ├─ Vuforia/
+ │   └─ ImageTargetTextures/
+ │       └─ Education/            # Images cibles du projet
+ ├─ Resources/
+ ├─ Scenes/
+ ├─ script/                        # (ancien dossier scripts non utilisé)
+ ├─ SportCar/                      # Contenu complet du modèle 3D
+ │   ├─ Doc/
+ │   ├─ Materials/
+ │   ├─ Models/                   # Modèle 3D de la Porsche GT3 RS
+ │   ├─ Prefabs/
+ │   ├─ Scenes/
+ │   └─ Textures/
+ ├─ StreamingAssets/
+ │   └─ Vuforia/                  # Base de données (Education.xml + .dat)
+
+### 🔊 Contenu audio du projet
+
+Audio/
+ ├─ description voice.mp3
+ └─ Porsche GT3 RS Sound.mp3
+
+
+---
+
+### 💻 Scripts utilisés
+
+
+Scripts/
+ ├─ TargetAudioController.cs     # Script de gestion audio AR
+ ├─ SlowRotation.cs              # Animation rotation du modèle 3D
+ └─ simpleDefaultTrackableEventHandler.cs 
+
+
+---
+
+### 🎬 Scène principale
+
+Scenes/
+ └─ ARScene.unity
 
 ---
 
@@ -109,3 +141,5 @@ La vidéo suivante montre le fonctionnement complet de l’application en Réali
 **Établissement :**ENS 
 **Année universitaire :** 2025/2026
 ---
+
+

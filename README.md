@@ -61,8 +61,6 @@ Assets/
 
 ## 🎬 Captures d’écran du projet
 
-📌 *Insérer ici les captures réelles du projet une fois terminé :*
-
 ### 🔹 Interface Unity – Hiérarchie et scène
 
 ➡ <img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/4a0be1c7-a2d9-443e-b48d-5e00e2e287ff" />

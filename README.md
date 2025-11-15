@@ -101,7 +101,8 @@ Scripts/
 
 ### 🔹 Résultat final sur smartphone
 
-<img width="1919" alt="PhoneResult" src="https://github.com/user-attachments/assets/9db4e330-c6f0-419b-9677-2ed4b8c9ca0c" />
+<img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/6863663e-16fe-416b-8eb7-7883bdda3a27" />
+
 
 ---
 
